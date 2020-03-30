@@ -1,2 +1,0 @@
-# CJS
-Created with CodeSandbox
